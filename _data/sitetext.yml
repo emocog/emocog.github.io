@@ -119,12 +119,12 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "contact us to ellie@emocog.com"
     section: contact
     
 footer:
     legal: "Privacy Policy"
-    social:
+    # social:
       - url: https://twitter.com
         icon: "fab fa-twitter"  
       - url: https://facebook.com
