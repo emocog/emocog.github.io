@@ -1,7 +1,7 @@
 nav:
 
-  - title: "About"
-    section: timeline
+  # - title: "About"
+  #   section: timeline
     
   - title: "Services"
     section: services
