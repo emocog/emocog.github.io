@@ -1,11 +1,11 @@
 header:
     title: Digital Therapeutics for Dementia
-    text: Cogthera®
+    text: <p>Cogthera<sup>®</sup></p>
     button: Tell Me More
     buttonlink: "#services"
 
 services:
-    title: "Services"
+    title: "Services" 
     text: "Senior Healthcare Platform"
     section: services
     list:
