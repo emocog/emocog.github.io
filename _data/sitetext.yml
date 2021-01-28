@@ -69,16 +69,16 @@ clients:
     list:
       - title: "Seoul National University"
         url: https://github.com/emocog/emocog.github.io
-        logo: assets/img/clients/snu.png
+        logo: assets/img/clients/snu-100.jpg
       - title: "Seoul National Univversity Hospotal"
         url: https://github.com/emocog/emocog.github.io
-        logo: assets/img/clients/snuh.png
+        logo: assets/img/clients/snuh-100.jpg
       - title: "Eisai"
         url: https://github.com/emocog/emocog.github.io
-        logo: assets/img/clients/eisai.png
+        logo: assets/img/clients/eisai-100.jpg
       - title: "SK telecom"
         url: https://github.com/emocog/emocog.github.io
-        logo: assets/img/clients/skt.png
+        logo: assets/img/clients/skt-100.jpg
     
 team:
     title: "OUR TEAM"
