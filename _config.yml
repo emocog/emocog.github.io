@@ -16,13 +16,13 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Cogthera
+title      : EMOCOG
 email      : ellie@emocog.com #this is also the email contact forms will go to
 description: "Bio-Digital Healthcare Platform description sample"
 author     : Eunsun Nou
 logo :     #optional, defaults to site title
   path: assets\img\logo\emocog-logo-w-small.png
-  height: 40 #height in px, defaults to 52px
+  height: 35 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
