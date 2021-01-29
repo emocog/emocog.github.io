@@ -73,16 +73,16 @@ clients:
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Seoul National University"
-        url: https://github.com/emocog/emocog.github.io
+        url: https://en.snu.ac.kr
         logo: assets/img/clients/snu-100.jpg
       - title: "Seoul National University Hospital"
-        url: https://github.com/emocog/emocog.github.io
+        url: http://www.snuh.org/global/en/main.do
         logo: assets/img/clients/snuh-100.jpg
       - title: "Eisai"
-        url: https://github.com/emocog/emocog.github.io
+        url: http://www.eisaikorea.com
         logo: assets/img/clients/eisai-100.jpg
       - title: "SK telecom"
-        url: https://github.com/emocog/emocog.github.io
+        url: https://www.sktelecom.com/index_en.html
         logo: assets/img/clients/skt-100.jpg
     
 team:
