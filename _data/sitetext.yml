@@ -22,26 +22,8 @@ services:
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
-                
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "Seoul National University"
-        url: https://en.snu.ac.kr
-        logo: assets/img/clients/snu-100.jpg
-      - title: "Seoul National University Hospital"
-        url: http://www.snuh.org/global/en/main.do
-        logo: assets/img/clients/snuh-100.jpg
-      - title: "Eisai"
-        url: http://www.eisaikorea.com
-        logo: assets/img/clients/eisai-100.jpg
-      - title: "SK telecom"
-        url: https://www.sktelecom.com/index_en.html
-        logo: assets/img/clients/skt-100.jpg
-    
+  
 team:
     title: "OUR TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
@@ -77,8 +59,26 @@ team:
         #   - url: https://facebook.com
         #     icon: fab fa-facebook-f
         #   - url: https://linkedin.com
-        #     icon: fab fa-linkedin-in
-          
+        #     icon: fab fa-linkedin-in              
+
+clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "Seoul National University"
+        url: https://en.snu.ac.kr
+        logo: assets/img/clients/snu-100.jpg
+      - title: "Seoul National University Hospital"
+        url: http://www.snuh.org/global/en/main.do
+        logo: assets/img/clients/snuh-100.jpg
+      - title: "Eisai"
+        url: http://www.eisaikorea.com
+        logo: assets/img/clients/eisai-100.jpg
+      - title: "SK telecom"
+        url: https://www.sktelecom.com/index_en.html
+        logo: assets/img/clients/skt-100.jpg
+  
 contact:
     title: "Contact Us"
     text: "Contact us for the detail"
