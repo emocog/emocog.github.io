@@ -5,27 +5,27 @@ header:
     # buttonlink: "#services"
 
 services:
-    title: "Services" 
-    text: "Senior Healthcare Platform"
+    title: "Senior Healthcare Platform"
+    text: "Our Services" 
     section: services
     list:
       - title: "Screening"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: ""
         icon: fas fa-binoculars 
       - title: "Monitoring"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: ""
         icon: fas fa-satellite   
       - title: "Prevention"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: ""
         icon: fas fa-shield-alt #find more at https://fontawesome.com/icons
       - title: "Treatment"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-medal    
+        desc: ""
+        icon: fas fa-medal 
 
   
 team:
     title: "TEAM"
-    text: <b>Passionate members and advisory groups from various fields are with us</b> </br></br> to improve the overall maturity of the service.
+    text: <b>Passionate members and advisory groups from various fields are with us</b></br> to improve the overall maturity of the service.
     subtext: 
     section: team
     people:
