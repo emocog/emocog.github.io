@@ -24,7 +24,7 @@ logo :     #optional, defaults to site title
   path: assets\img\logo\emocog-logo-w-small.png
   height: 35 #height in px, defaults to 52px
 
-formspree_form_path: "f/1600346229173124487"
+formspree_form_path: f/1600346229173124487
 
 analytics:
   google: #Google Analytics tracking code here
