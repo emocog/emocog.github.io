@@ -29,7 +29,7 @@ analytics:
 
 markdown: kramdown
 
-formspree_form_path: f/1600346229173124487
+# formspree_form_path: f/1600346229173124487
 
 # collections:
 #   portfolio:
