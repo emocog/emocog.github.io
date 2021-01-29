@@ -81,7 +81,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "contact us to ellie@emocog.com"
+    text: "Contact us for the detail"
     section: contact
     
 footer:
@@ -97,9 +97,6 @@ footer:
     #    icon: "fab fa-github"
     #  - url: https://instagram.com
     #    icon: "fab fa-instagram"
-
-
-
 
 # portfolio:
 #     title: "Portfolio"
@@ -144,7 +141,4 @@ footer:
 #     text: "our story"
 #     section: about
 
-
-
-
-# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
+{{ site.data.sitetext.ex.ex | markdownify | default: example }}
