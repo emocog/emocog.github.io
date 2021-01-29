@@ -1,8 +1,8 @@
 header:
     title: Digital Therapeutics for Dementia
     text: <p>Cogthera<small><sup>®</sup></small></p>
-    button: Tell Me More
-    buttonlink: "#services"
+    # button: Tell Me More
+    # buttonlink: "#services"
 
 services:
     title: "Services" 
