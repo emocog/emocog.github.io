@@ -25,7 +25,7 @@ services:
   
 team:
     title: "TEAM"
-    text: Passionate members and advisory groups from various fields are with us </br> to improve the overall maturity of the service.
+    text: <b>Passionate members and advisory groups from various fields are with us</b> </br></br> to improve the overall maturity of the service.
     subtext: 
     section: team
     people:
