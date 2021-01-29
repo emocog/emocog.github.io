@@ -7,27 +7,26 @@ header:
 services:
     title: "Services" 
     text: "Senior Healthcare Platform"
-    max-width: 1200px
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Screening"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-binoculars 
+      - title: "Monitoring"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "E-Commerce"
+        icon: fas fa-satellite   
+      - title: "Prevention"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-shield-alt #find more at https://fontawesome.com/icons
+      - title: "Treatment"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
+        icon: fas fa-medal    
 
   
 team:
     title: "TEAM"
-    text: 
-    subtext: Passionate members and advisory groups from various fields are with us to improve the overall maturity of the service.
+    text: Passionate members and advisory groups from various fields are with us to improve the overall maturity of the service.
+    subtext: 
     section: team
     people:
       - name: "Jun-Young Lee"
