@@ -25,14 +25,14 @@ services:
 
   
 team:
-    title: "OUR TEAM"
+    title: "TEAM"
     text: 
     subtext: Passionate members and advisory groups from various fields are with us to improve the overall maturity of the service.
     section: team
     people:
       - name: "Jun-Young Lee"
         role: "Co-Founder & CEO, Clinical field expert"
-        image: assets/img/team/benji.jpg
+        image: assets/img/team/benji2.jpg
         # social:
         #  - url: https://twitter.com
           #   icon: fab fa-twitter
@@ -42,7 +42,7 @@ team:
           #   icon: fab fa-linkedin-in
       - name: "Yoo-Hun Noh"
         role: "Co-Founder & CEO, Base field expert"
-        image: assets/img/team/ardor.jpg
+        image: assets/img/team/ardor2.jpg
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
@@ -52,7 +52,7 @@ team:
         #     icon: fab fa-linkedin-in
       - name: "Jung Hae Youn"
         role: "Co-Founder & COO, Psychology field expert"
-        image: assets/img/team/mint.jpg
+        image: assets/img/team/mint2.jpg
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
