@@ -141,4 +141,4 @@ footer:
 #     text: "our story"
 #     section: about
 
-{{ site.data.sitetext.ex.ex | markdownify | default: example }}
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
