@@ -6,7 +6,7 @@ header:
 
 services:
     title: AI based Smart Care Online Platform
-    text: 
+    text: ""
     section: services
     list:
       - title: "Screening"
@@ -25,12 +25,12 @@ services:
   
 team:
     title: "TEAM"
-    text: Passionate members and advisory groups from various fields are with us to improve the overall maturity of the service.
+    text: ""
     subtext: 
     section: team
     people:
       - name: "Jun-Young Lee"
-        role: "Co-Founder & CEO<br>Clinical field expert"
+        role: "Co-Founder & CEO<p>Clinical field expert"
         image: assets/img/team/benji2.jpg
         # social:
         #  - url: https://twitter.com
@@ -40,7 +40,7 @@ team:
           # - url: https://linkedin.com
           #   icon: fab fa-linkedin-in
       - name: "Yoo-Hun Noh"
-        role: "Co-Founder & CEO<br>Base field expert"
+        role: "Co-Founder & CEO<p>Base field expert"
         image: assets/img/team/ardor2.jpg
         # social:
         #   - url: https://twitter.com
@@ -50,7 +50,7 @@ team:
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
       - name: "Jung Hae Youn"
-        role: "Co-Founder & COO<br>Psychology field expert"
+        role: "Co-Founder & COO<p>Psychology field expert"
         image: assets/img/team/mint2.jpg
         # social:
         #   - url: https://twitter.com

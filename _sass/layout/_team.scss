@@ -3,8 +3,10 @@
   margin-bottom: 50px;
   text-align: center;
   img {
-    width: 225px;
-    height: 225px;
+    max-width:225px; 
+    max-height:225px; 
+    width: 100%;
+    height: 100%;
     border: 7px solid fade-out($black, 0.9);
   }
   h4 {
