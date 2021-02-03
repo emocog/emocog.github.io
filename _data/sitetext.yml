@@ -30,7 +30,7 @@ team:
     section: team
     people:
       - name: "Jun-Young Lee"
-        role: "Co-Founder & CEO<p>Clinical field expert"
+        role: "Co-Founder & CEO<span style="line-height:50%"><br><span>Clinical field expert"
         image: assets/img/team/benji2.jpg
         # social:
         #  - url: https://twitter.com
@@ -40,7 +40,7 @@ team:
           # - url: https://linkedin.com
           #   icon: fab fa-linkedin-in
       - name: "Yoo-Hun Noh"
-        role: "Co-Founder & CEO<p>Base field expert"
+        role: "Co-Founder & CEO<span style="line-height:50%"><br><span>Base field expert"
         image: assets/img/team/ardor2.jpg
         # social:
         #   - url: https://twitter.com
@@ -50,7 +50,7 @@ team:
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
       - name: "Jung Hae Youn"
-        role: "Co-Founder & COO<p>Psychology field expert"
+        role: "Co-Founder & COO<span style="line-height:50%"><br><span>Psychology field expert"
         image: assets/img/team/mint2.jpg
         # social:
         #   - url: https://twitter.com
