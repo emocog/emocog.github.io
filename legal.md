@@ -26,6 +26,8 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 {% else %}
 
 We do not collect any data about you or use any cookies.
+Color Icons made by Freepik from www.flaticon.com
+
 
 {% endif %}
 
