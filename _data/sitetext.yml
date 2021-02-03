@@ -28,9 +28,10 @@ team:
     text: Passionate members and advisory groups from various fields are with us to improve the overall maturity of the service.
     subtext: 
     section: team
+    max-height: 120px
     people:
       - name: "Jun-Young Lee"
-        role: "Co-Founder & CEO, Clinical field expert"
+        role: "Co-Founder & CEO<br>Clinical field expert"
         image: assets/img/team/benji2.jpg
         # social:
         #  - url: https://twitter.com
@@ -40,7 +41,7 @@ team:
           # - url: https://linkedin.com
           #   icon: fab fa-linkedin-in
       - name: "Yoo-Hun Noh"
-        role: "Co-Founder & CEO, Base field expert"
+        role: "Co-Founder & CEO<br>Base field expert"
         image: assets/img/team/ardor2.jpg
         # social:
         #   - url: https://twitter.com
@@ -50,7 +51,7 @@ team:
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
       - name: "Jung Hae Youn"
-        role: "Co-Founder & COO, Psychology field expert"
+        role: "Co-Founder & COO<br>Psychology field expert"
         image: assets/img/team/mint2.jpg
         # social:
         #   - url: https://twitter.com
