@@ -28,7 +28,6 @@ team:
     text: Passionate members and advisory groups from various fields are with us to improve the overall maturity of the service.
     subtext: 
     section: team
-    max-height: 120px
     people:
       - name: "Jun-Young Lee"
         role: "Co-Founder & CEO<br>Clinical field expert"
