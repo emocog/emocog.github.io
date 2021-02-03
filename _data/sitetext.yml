@@ -1,12 +1,12 @@
 header:
     title: Digital Therapeutics for Dementia
-    text: <p>Cogthera<small><sup>®</sup></small></p>
+    text: <p>Cogthera<small><small><sup>®</sup></small></small></p>
     # button: Tell Me More
     # buttonlink: "#services"
 
 services:
-    title: "Senior Healthcare Platform"
-    text: "Our Services" 
+    title: AI based Smart Care Online Platform
+    text: 
     section: services
     list:
       - title: "Screening"
