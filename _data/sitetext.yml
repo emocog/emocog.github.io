@@ -11,16 +11,16 @@ services:
     list:
       - title: "Screening"
         desc: ""
-        icon: fas fa-binoculars 
+        icon: fas fa-microscope
       - title: "Monitoring"
         desc: ""
-        icon: fas fa-satellite   
+        icon: fas fa-mobile-alt  
       - title: "Prevention"
         desc: ""
-        icon: fas fa-shield-alt #find more at https://fontawesome.com/icons
+        icon: fas fa-user-shield 
       - title: "Treatment"
         desc: ""
-        icon: fas fa-medal 
+        icon: fas fa-capsules #find more at https://fontawesome.com/icons
 
   
 team:
