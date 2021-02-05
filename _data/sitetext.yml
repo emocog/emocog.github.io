@@ -22,6 +22,25 @@ services:
         desc: ""
         icon: fas fa-capsules #find more at https://fontawesome.com/icons
 
+
+services-DT:
+    title: Digital Therapeutics technology
+    text: Multi-strategic Memory Training with the metamemory 
+    section: services-DT
+    list:
+      - title: "Screening"
+        desc: "‘2005 Anatomical Brain Training"
+        icon: fas fa-microscope
+      - title: "‘2011 Multistrategic Memory Training with the Metamemory in SCD (F=5.4, P=0.02)"
+        desc: ""
+        icon: fas fa-mobile-alt  
+      - title: "Prevention"
+        desc: "‘2018 Multistrategic Memory Training with the Metamemory in MCI (F=6.4, P=0.001)"
+        icon: fas fa-user-shield 
+      - title: "Treatment"
+        desc: "‘2020 Multistrategic Memory Training with the Metamemory in MCI (F=6.04, P<0.05)"
+        icon: fas fa-capsules #find more at https://fontawesome.com/icons
+
   
 team:
     title: "TEAM"
