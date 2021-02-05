@@ -5,7 +5,7 @@ header:
     # buttonlink: "#services"
 
 services:
-    title: "Senior Healthcare Platform"
+    title: "AI based Smart Care Online Platform"
     text: "Our Services" 
     section: services
     list:
@@ -30,7 +30,7 @@ team:
     section: team
     people:
       - name: "Jun-Young Lee"
-        role: "Co-Founder & CEO, Clinical field expert"
+        role: "Co-Founder & CEO<br>Clinical field expert"
         image: assets/img/team/benji2.jpg
         # social:
         #  - url: https://twitter.com
@@ -40,7 +40,7 @@ team:
           # - url: https://linkedin.com
           #   icon: fab fa-linkedin-in
       - name: "Yoo-Hun Noh"
-        role: "Co-Founder & CEO, Base field expert"
+        role: "Co-Founder & CEO<br>Base field expert"
         image: assets/img/team/ardor2.jpg
         # social:
         #   - url: https://twitter.com
@@ -50,7 +50,7 @@ team:
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
       - name: "Jung Hae Youn"
-        role: "Co-Founder & COO, Psychology field expert"
+        role: "Co-Founder & COO<br>Psychology field expert"
         image: assets/img/team/mint2.jpg
         # social:
         #   - url: https://twitter.com
