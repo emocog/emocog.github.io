@@ -22,9 +22,26 @@ services:
         desc: ""
         icon: fas fa-pills
 
+services2:
+    title: "Digital Therapeutics technology"
+    text: "" 
+    section: services2
+    list:
+      - title:
+        desc: "‘2005 Anatomical Brain Training"
+        icon: fas fa-microscope
+      - title:
+        desc: "‘2011 Multistrategic Memory Training with the Metamemory<br>in <b>SCD</b> (F=5.4, P=0.02)"
+        icon: fas fa-mobile-alt  
+      - title:
+        desc: "‘2018 Multistrategic Memory Training with the Metamemory<br>in <b>MCI</b> (F=6.4, P=0.001)"
+        icon: fas fa-user-shield #find more at https://fontawesome.com/icons
+      - title:
+        desc: "‘2020 Multistrategic Memory Training with the Metamemory<br>in <b>MCI</b> (F=6.04, P<0.05)"
+        icon: fas fa-pills
   
 team:
-    title: "TEAM"
+    title: "Team"
     text: ""
     subtext: 
     section: team

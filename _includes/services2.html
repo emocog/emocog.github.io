@@ -1,24 +1,25 @@
 <!-- Services -->
 
-  <section class="page-section" id="{{ site.data.sitetext.services.section | default: "services" }}">
+  <section class="bg-light page-section" id="{{ site.data.sitetext.services2.section | default: "services2" }}">
     <div class="container">
 	
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-capitalize">{{ site.data.sitetext.services.title | default: "Services" }}</h2>
-          {% if site.data.sitetext.services.text %}
-		  <h3 class="section-subheading text-muted">{{ site.data.sitetext.services.text }}</h3>
+          <h2 class="section-heading text-capitalize">{{ site.data.sitetext.services2.title | default: "Services2" }}</h2>
+          {% if site.data.sitetext.services2.text %}
+		  <h3 class="section-subheading text-muted">{{ site.data.sitetext.services2.text }}</h3>
 		  {% endif %}
         </div>
       </div>
 	  
       <div class="row text-center">
-	  {% for service in site.data.sitetext.services.list %}
+	  {% for service in site.data.sitetext.services2.list %}
         <div class="col-md-3">
-          <span class="fa-stack fa-4x">
+          <!-- <span class="fa-stack fa-4x">
             <i class="fas fa-circle fa-stack-2x text-primary"></i>
             <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
-          </span>
+          </span> -->
+        
           <h4 class="service-heading">{{ service.title | markdownify }}</h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
 	 </div>
@@ -27,9 +28,10 @@
 
       <div class="row">
         <div class="col-lg-12 text-center">
-          <img style="margin-top:50px; width:100%;" src= "\assets\img\service\system-v2.png">	
+          <img style="margin-top:50px; width:100%;" src= "\assets\img\service\brain.png">	
         </div>
       </div>
+	    
 	    
     </div>
   </section>
