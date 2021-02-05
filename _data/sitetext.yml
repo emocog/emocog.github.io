@@ -1,55 +1,36 @@
 header:
     title: Digital Therapeutics for Dementia
-    text: <p>Cogthera<small><small><small><sup>®</sup></small></small></small></p>
+    text: <p>Cogthera<small><sup>®</sup></small></p>
     # button: Tell Me More
     # buttonlink: "#services"
 
 services:
-    title: AI based<br>Smart Care Online Platform
-    text: ""
+    title: "Senior Healthcare Platform"
+    text: "Our Services" 
     section: services
     list:
       - title: "Screening"
         desc: ""
-        icon: fas fa-microscope
+        icon: fas fa-binoculars 
       - title: "Monitoring"
         desc: ""
-        icon: fas fa-mobile-alt  
+        icon: fas fa-satellite   
       - title: "Prevention"
         desc: ""
-        icon: fas fa-user-shield 
+        icon: fas fa-shield-alt #find more at https://fontawesome.com/icons
       - title: "Treatment"
         desc: ""
-        icon: fas fa-capsules #find more at https://fontawesome.com/icons
-
-
-services-DT:
-    title: Digital Therapeutics technology
-    text: Multi-strategic Memory Training with the metamemory 
-    section: services-DT
-    list:
-      - title: "Screening"
-        desc: "‘2005 Anatomical Brain Training"
-        icon: fas fa-microscope
-      - title: "‘2011 Multistrategic Memory Training with the Metamemory in SCD (F=5.4, P=0.02)"
-        desc: ""
-        icon: fas fa-mobile-alt  
-      - title: "Prevention"
-        desc: "‘2018 Multistrategic Memory Training with the Metamemory in MCI (F=6.4, P=0.001)"
-        icon: fas fa-user-shield 
-      - title: "Treatment"
-        desc: "‘2020 Multistrategic Memory Training with the Metamemory in MCI (F=6.04, P<0.05)"
-        icon: fas fa-capsules #find more at https://fontawesome.com/icons
+        icon: fas fa-medal 
 
   
 team:
     title: "TEAM"
-    text: ""
+    text: Passionate members and advisory groups from various fields are with us to improve the overall maturity of the service.
     subtext: 
     section: team
     people:
       - name: "Jun-Young Lee"
-        role: "Co-Founder & CEO<br>Clinical field expert"
+        role: "Co-Founder & CEO, Clinical field expert"
         image: assets/img/team/benji2.jpg
         # social:
         #  - url: https://twitter.com
@@ -59,7 +40,7 @@ team:
           # - url: https://linkedin.com
           #   icon: fab fa-linkedin-in
       - name: "Yoo-Hun Noh"
-        role: "Co-Founder & CEO<br>>Base field expert"
+        role: "Co-Founder & CEO, Base field expert"
         image: assets/img/team/ardor2.jpg
         # social:
         #   - url: https://twitter.com
@@ -69,7 +50,7 @@ team:
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
       - name: "Jung Hae Youn"
-        role: "Co-Founder & COO<br>Psychology field expert"
+        role: "Co-Founder & COO, Psychology field expert"
         image: assets/img/team/mint2.jpg
         # social:
         #   - url: https://twitter.com
