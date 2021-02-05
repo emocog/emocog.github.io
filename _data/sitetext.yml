@@ -5,27 +5,27 @@ header:
     # buttonlink: "#services"
 
 services:
-    title: "AI based Smart Care Online Platform"
-    text: "Our Services" 
+    title: "AI based<br>Smart Care Online Platform"
+    text: "" 
     section: services
     list:
       - title: "Screening"
         desc: ""
-        icon: fas fa-binoculars 
+        icon: fas fa-microscope
       - title: "Monitoring"
         desc: ""
-        icon: fas fa-satellite   
+        icon: fas fa-mobile-alt  
       - title: "Prevention"
         desc: ""
-        icon: fas fa-shield-alt #find more at https://fontawesome.com/icons
+        icon: fas fa-user-shield #find more at https://fontawesome.com/icons
       - title: "Treatment"
         desc: ""
-        icon: fas fa-medal 
+        icon: fas fa-pills
 
   
 team:
     title: "TEAM"
-    text: Passionate members and advisory groups from various fields are with us to improve the overall maturity of the service.
+    text: ""
     subtext: 
     section: team
     people:
