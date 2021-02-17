@@ -43,7 +43,7 @@ services2:
 team:
     title: "Team"
     text: ""
-    subtext: 
+    subtext: ""
     section: team
     people:
       - name: "Jun-Young Lee"
@@ -78,26 +78,27 @@ team:
         #     icon: fab fa-linkedin-in              
 
 clients:
+    text: 
+    max-height: 200px
     section: clients
-    max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Seoul National University"
         url: https://en.snu.ac.kr
         logo: assets/img/clients/snu-100.jpg
-      - title: "Seoul National University Hospital"
-        url: http://www.snuh.org/global/en/main.do
-        logo: assets/img/clients/snuh-100.jpg
-      - title: "Eisai"
-        url: http://www.eisaikorea.com
-        logo: assets/img/clients/eisai-100.jpg
-      - title: "SK telecom"
-        url: https://www.sktelecom.com/index_en.html
-        logo: assets/img/clients/skt-100.jpg
+      # - title: "Seoul National University Hospital"
+      #   url: http://www.snuh.org/global/en/main.do
+      #   logo: assets/img/clients/snuh-100.jpg
+      # - title: "Eisai"
+      #   url: http://www.eisaikorea.com
+      #   logo: assets/img/clients/eisai-100.jpg
+      # - title: "SK telecom"
+      #   url: https://www.sktelecom.com/index_en.html
+      #   logo: assets/img/clients/skt-100.jpg
   
 contact:
-    title: "Contact Us"
-    text: "contact@emocog.com"
+    title: "We aims to evaluate and treat people's emotions and cognition."
+    subtext: contact@emocog.com
     section: contact
     
 footer:
