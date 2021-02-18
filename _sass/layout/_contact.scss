@@ -1,5 +1,4 @@
 // Styling for the contact section
-
 section#contact {
   background-color: $gray-900;
   background-image: url("#{$contact-image}");
@@ -8,32 +7,77 @@ section#contact {
   .section-heading {
     color: $white;
   }
+
   
   .intro-text {
-      text-align: center;
-      color: white;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10px;
+
+    .intro-lead-in {
+      font-size: 18px;
+      font-style: bold;
+      line-height: 22px;
+      margin-bottom: 10px;
+      @include serif-font;
+    }
+    .intro-lead-in-subtext {
+      font-size: 17px;
+      font-style: italic;
+      line-height: 22px;
+      margin-top: 0px;
+      margin-bottom: 10px;
+      @include serif-font;
+    }
+    .intro-heading {
+      font-size: 50px;
+      font-weight: 700;
+      line-height: 50px;
+      margin-bottom: 0px;
+      @include heading-font;
+    }
+  }
+
+  @media(min-width:768px) {
+    .intro-text {
+      padding-top: 0px;
+      padding-bottom: 50px;
+      padding-left : 20%;
+      padding-right : 20%;
+  
       .intro-lead-in {
-        font-size: 30px;
+        font-size: 35px;
+        font-style: bold;
+        line-height: 40px;
+        margin-bottom: 80px;
+        @include serif-font;
+        }
+      .intro-lead-in-subtext {
+        font-size: 25px;
         font-style: italic;
-        line-height: 22px;
+        line-height: 40px;
+        margin-top: 20px;
         margin-bottom: 25px;
         @include serif-font;
       }
       .intro-heading {
-        font-size: 50px;
+        font-size: 75px;
         font-weight: 700;
-        line-height: 50px;
-        margin-bottom: 25px;
+        line-height: 75px;
+        margin-bottom: 50px;
         @include heading-font;
       }
-   }
-  
+    }
+  }
 
   .form-group {
     margin-bottom: 25px;
     input,
     textarea {
-      padding: 20px;
+      padding: 10px;
     }
     input.form-control {
       height: auto;
@@ -67,3 +111,4 @@ section#contact {
     @include heading-font;
   }
 }
+

@@ -1,6 +1,7 @@
 header:
     title: Digital Therapeutics for Dementia
-    text: <p>Cogthera<small><sup>®</sup></small></p>
+    text: Cogthera<small><sup>®</sup></small>
+    subtext: Memory training is <span style="color:#92fffb;font-weight:bold">a cognitive enhance</span> changes the human brain. 
     # button: Tell Me More
     # buttonlink: "#services"
 
@@ -98,7 +99,7 @@ clients:
   
 contact:
     title: "We aims to evaluate and treat people's emotions and cognition."
-    subtext: contact@emocog.com
+    subtext: <b>contact at emocog.com</b><br>for more information
     section: contact
     
 footer:
