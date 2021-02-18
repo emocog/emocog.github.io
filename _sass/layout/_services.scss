@@ -1,5 +1,30 @@
 // Styling for the services section
-.service-heading {
-  margin: 15px 0;
-  text-transform: none;
+
+section#services {
+  background-color: $white;
+
+  .section-heading {
+    margin: 0px 0;
+    
+    h4 {
+      font-size: 20px;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      font-style: bold;
+      @include serif-font;
+    }
+  }
+
+  @media(min-width:768px) {
+    margin-bottom: 50px;
+    text-align: center;
+
+    h4 {
+      font-size: 25px;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      font-style: bold;
+      @include serif-font;
+    }
+  }
 }
