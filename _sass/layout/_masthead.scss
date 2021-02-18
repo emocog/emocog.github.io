@@ -3,7 +3,7 @@ header.masthead {
   text-align: center;
   color: white;
   height: 100%;
-  background-image: url("#{$header-image}");
+  background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -40,6 +40,39 @@ header.masthead {
   }
 }
 @media(min-width:768px) {
+  header.masthead {
+    height: 100vh;
+    .intro-text {
+      padding-top: 300px;
+      padding-bottom: 200px;
+      .intro-lead-in {
+        font-size: 40px;
+        font-style: bold;
+        line-height: 40px;
+        margin-bottom: 0px;
+        @include serif-font;
+      }
+      .intro-lead-in-subtext {
+        font-size: 25px;
+        font-style: italic;
+        line-height: 40px;
+        margin-top: -10px;
+        margin-bottom: 25px;
+        @include serif-font;
+      }
+      .intro-heading {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+        @include heading-font;
+      }
+      
+    }
+  }
+}
+
+@media(min-width:1024px) {
   header.masthead {
     height: 100vh;
     .intro-text {
