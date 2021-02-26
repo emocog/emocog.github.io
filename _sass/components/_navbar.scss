@@ -6,19 +6,19 @@
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: white;
+    color: $gray-900;
     border: 0;
-    background-color: $primary;
+    background-color: $sub-primary;
     @include heading-font;
   }
   .navbar-brand {
-    color: $primary;
+    color: $sub-primary;
     @include script-font;
     &.active,
     &:active,
     &:focus,
     &:hover {
-      color: darken($primary, 10%);
+      color: darken($sub-primary, 10%);
     }
   }
   .navbar-nav {
@@ -32,7 +32,7 @@
         @include heading-font;
         &.active,
         &:hover {
-          color: $primary;
+          color: $sub-primary;
         }
       }
     }
