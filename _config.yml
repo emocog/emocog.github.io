@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Emocog Corporation
 email      : ellie@emocog.com #this is also the email contact forms will go to
-description: "Bio-Digital Healthcare Platform description"
+description: "Bio-Digital Healthcare Platform, Cogthera®"
 author     : Eunsun Nou
 logo :     #optional, defaults to site title
   path: assets\img\logo\emocog-logo-w-small.png
