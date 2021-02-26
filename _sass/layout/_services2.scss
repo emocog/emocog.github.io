@@ -1,0 +1,41 @@
+// Styling for the services section
+
+
+section#services2 {
+  background-color: $white;
+
+  .section-heading {
+    margin: 50px 50px;
+
+    h2 {
+      font-size: 20px;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      font-style: bold;
+      @include serif-font;
+    }  
+  }
+}
+
+@media(min-width:768px) {
+  section#services2 {
+    background-color: $white;
+   
+    h2 {
+      font-size: 50px;
+      line-height: 60px;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      font-style: bold;
+      @include serif-font;
+    }
+
+    h4 {
+      font-size: 22px;
+      margin-top: 25px;
+      margin-bottom: 10px;
+      font-style: bold;
+      @include heading-font;
+    }
+  }
+}

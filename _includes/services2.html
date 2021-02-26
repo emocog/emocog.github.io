@@ -1,11 +1,11 @@
-<!-- Services -->
+<!-- Services2-->
 
-  <section class="bg-light page-section" id="{{ site.data.sitetext.services2.section | default: "services2" }}">
+  <section class="page-section" id="{{ site.data.sitetext.services2.section | default: "services2" }}">
     <div class="container">
-	
+
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-capitalize">{{ site.data.sitetext.services2.title | default: "Services2" }}</h2>
+          <h2 class="section-heading">{{ site.data.sitetext.services2.title | default: "Services2" }}</h2>
           {% if site.data.sitetext.services2.text %}
 		  <h3 class="section-subheading text-muted">{{ site.data.sitetext.services2.text }}</h3>
 		  {% endif %}
@@ -13,14 +13,14 @@
       </div>
 	  
       <div class="row text-center">
-        <img style="margin-top:50px; width:100%;" src= "\assets\img\service\service2-1.png">	
-	  {% for service in site.data.sitetext.services2.list %}
-        
+        <img style="margin-top:50px; max-width:100%;" src= "\assets\img\service\service2-1.png">
+
+	    {% for service in site.data.sitetext.services2.list %}
         <div class="col-md-3">
            <!-- <span class="fa-stack fa-4x">
             <i class="fas fa-circle fa-stack-2x text-primary"></i>
             <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i> -->
-          </span>
+          <!-- </span> -->
         
           <h4 class="service-heading">{{ service.title | markdownify }}</h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
@@ -30,7 +30,7 @@
 
       <div class="row">
         <div class="col-lg-12 text-center">
-          <img style="margin-top:50px; width:100%;" src= "\assets\img\service\brain.png">	
+          <img style="margin-top:50px; max-width:60%;" src= "\assets\img\service\brain.png">	
         </div>
       </div>
 	    
@@ -38,4 +38,4 @@
     </div>
   </section>
   
-<!-- End Services -->
+<!-- End Services2 -->

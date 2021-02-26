@@ -6,7 +6,7 @@ header:
     # buttonlink: "#services"
 
 services:
-    title: "AI-based Bio-Digital Healthcare Platform" 
+    title: "AI-based<br> Bio-Digital Healthcare Platform" 
     text: "" 
     section: services
     list:
@@ -24,7 +24,7 @@ services:
         icon: fas fa-pills
 
 services2:
-    title: "Digital Therapeutics technology"
+    title: "Digital Therapeutics Technology"
     text: "" 
     section: services2
     list:
@@ -98,10 +98,10 @@ clients:
       #   logo: assets/img/clients/skt-100.jpg
   
 contact:
-    title: "We aims to evaluate and treat people's emotions and cognition."
-    subtext: <b>contact at emocog.com</b><br>for more information
+    title: "We aim to evaluate and treat people’s emotion and cognition."
+    subtext: ...and love to provide you for more information or answer any questions you may have!<br><b><a href="mailto:contact@emocog.com?Subject=[Asking for Information of Emocog]" target="_top"><span style="color:#92fffb;font-weight:bold">contact@emocog.com</span></a></b>
     section: contact
-    
+
 footer:
     legal: "Privacy Policy"
     # social:
