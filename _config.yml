@@ -17,9 +17,9 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Emocog Corporation
-email      : ellie@emocog.com #this is also the email contact forms will go to
+email      : tech@emocog.com #this is also the email contact forms will go to
 description: "Digital Therapeutics for Dementia, Cogthera®"
-author     : Eunsun Nou
+author     : Emocog Engineering Team
 logo :     #optional, defaults to site title
   path: assets\img\logo\emocog-logo-w-small.png
   height: 35 #height in px, defaults to 52px
