@@ -14,6 +14,13 @@ section.main {
     }
 }
 
+@media(min-width:600px) {
+    section.main {
+        min-height: 337px;
+        height: 33vh;
+    }
+}
+
 @media(min-width:768px) {
     section.main {
         min-height: 432px;
