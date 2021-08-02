@@ -7,65 +7,8 @@ section.main {
     background-size: 100% 100%;
 }
 
-@media(min-width:400px) {
+@media(min-width:200px) {
     section.main {
-        min-height: 300px;
-        height: 25vh;
-    }
-}
-
-@media(min-width:600px) {
-    section.main {
-        min-height: 337px;
-        height: 33vh;
-    }
-}
-
-@media(min-width:768px) {
-    section.main {
-        min-height: 432px;
-        height: 43vh;    
-    }
-}
-
-@media(min-width:960px) {
-    section.main {
-        min-height: 540px;
-        height: 54vh;
-    }
-}
-
-@media(min-width:1024px) {
-    section.main {
-        min-height: 576px;
-        height: 57vh;
-    }
-}
-
-@media(min-width:1200px) {
-    section.main {
-        min-height: 675px;
-        height: 67vh;
-    }
-}
-
-@media(min-width:1376px) {
-    section.main {
-        min-height: 774px;
-        height: 77vh;
-    }
-}
-
-@media(min-width:1552px) {
-    section.main {
-        min-height: 873px;
-        height: 87vh;
-    }
-}
-
-@media(min-width:1728px) {
-    section.main {
-        min-height: 972px;
-        height: 97vh;
+        height: 56vw;
     }
 }
