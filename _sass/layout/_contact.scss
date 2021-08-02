@@ -19,17 +19,18 @@ section#contact {
     padding-bottom: 10px;
 
     .intro-lead-in {
-      font-size: 20px;
-      font-style: bold;
-      line-height: 22px;
+      color: rgb(255, 255, 255);
+      font-size: 40px;
+      font-style: normal;
+      line-height: 140%;
       margin-bottom: 10px;
+      text-align: center;
       @include serif-font;
     }
     .intro-lead-in-subtext {
       color: rgb(216, 216, 216);
-      font-size: 17px;
-      font-style: italic;
-      line-height: 22px;
+      font-size: 24px;
+      line-height: 140%;
       margin-top: 20px;
       margin-bottom: 10px;
       @include serif-font;

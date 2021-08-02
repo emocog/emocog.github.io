@@ -5,13 +5,13 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <img style="margin:30px; max-width:60%;" alt="" src= "\assets\img\logo\emocog-logo-w-small.png">
-        <div class="intro-text">
-        {%- if site.data.sitetext.contact.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext.contact.title | markdownify }}</div>
-        {%- endif -%}
-        {%- if site.data.sitetext.contact.subtext -%}
-        <div class="intro-lead-in-subtext">{{ site.data.sitetext.contact.subtext | markdownify }}</div>
-        {%- endif -%}
+        <div class="intro-text" style="font-family:Poppins">
+          {%- if site.data.sitetext.contact.title -%}
+          <div class="intro-lead-in" style="font-family:Poppins; font-style: normal; opacity: 0.8;">{{ site.data.sitetext.contact.title | markdownify }}</div>
+          {%- endif -%}
+          {%- if site.data.sitetext.contact.subtext -%}
+          <div class="intro-lead-in-subtext" style="font-family:Poppins; font-style: normal; font-weight: normal; opacity: 0.8;">{{ site.data.sitetext.contact.subtext | markdownify }}</div>
+          {%- endif -%}
         </div>
       </div>
     </div>
