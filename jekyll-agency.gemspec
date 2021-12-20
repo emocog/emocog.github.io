@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name     = "jekyll-agency"
-  spec.version  = "1.1.0"
+  spec.version  = "1.0.7"
   spec.authors  = ["Ravi Riley"]
   spec.summary  = "Bootstrap Agency ported to Jekyll. Added lots of new features: Markdown support, custom pages, Google Analytics, customizable styling, and more! This is the most up-to-date Jekyll Agency theme."
   spec.homepage = "https://github.com/raviriley/agency-jekyll-theme"
@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   end
 
   spec.required_ruby_version = '>= 2.5.0'
-  spec.add_runtime_dependency "jekyll", ">= 4.0", "< 4.3"
+  spec.add_runtime_dependency "jekyll", ">= 3.8"
   spec.add_development_dependency "bundler", "~> 2.0"
-  spec.add_development_dependency "rake", "~> 13.0"
+  spec.add_development_dependency "rake", "~> 12.0"
 end
